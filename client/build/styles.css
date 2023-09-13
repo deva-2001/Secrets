@@ -1,0 +1,63 @@
+
+html {
+  background-color: #e5e7e9;
+}
+#root {
+  background-color: #e5e7e9;
+}
+
+.centered {
+    padding-top: 200px;
+    text-align: center;
+}
+
+.secret-text {
+  text-align: center;
+  font-size: 2rem;
+  color: #fff;
+  background-color: #000;
+}
+.jumbotron{
+  padding-top: 110px;
+}
+
+@media (min-width: 768px) {
+  .bd-placeholder-img-lg {
+    font-size: 3.5rem;
+  }
+}
+/* My css */
+/* .login{
+  background-color: #adb0b2;
+} */
+.login .container{
+  margin: 50px auto;
+    width: 300px;
+}
+
+table{
+  width: 50%;
+}
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+.secret-color{
+  height: auto;
+  width:auto;
+  margin:1rem 1rem 1rem 9rem;
+  border: 2px solid #96D4D4;
+  background-color: #96D4D4;
+}
+/* h4{
+  display: flex;
+} */
+.col-4{
+  width: 100%;
+}
+
+/* .myColor{
+  background-color:  #10EE67,#FECB00;
+} */
+
